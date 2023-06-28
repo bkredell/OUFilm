@@ -20,20 +20,33 @@ that this should only reflect the essay itself – i.e., you should exclude the 
 ## Files
 Unless otherwise indicated by your professor, papers that are submitted electronically should be saved as either a PDF or in Microsoft Word format (.doc, .docx). All files should be saved with a filename that indicates who the author is and what course the assignment is for: e.g. JaneDoeFLM2150FinalPaper.pdf or John Doe FLM 3200 Paper.docx.
 ## Citations
-The Chicago Manual of Style describes two different styles of citation: "Notes and Bibliography" and "Author/Date." In writing for Cinema Studies courses, we will employ the "Notes and Bibliography" style. When it comes time to place a citation into your paper, you should insert a superscript numeral into the text, accompanied
-by a separate note explaining the citation, as so.[^1]
+The Chicago Manual of Style describes two different styles of citation: "Notes and Bibliography" and "Author/Date." Some professors may indicate a preference for one or the other style; in the absence of an express preference, students may choose to use whichever method works better for them. 
 
-Papers written for OU Film courses should use footnotes (not endnotes) – i.e., notes should appear on the bottom of the page corresponding to their reference.
+#### Notes and Bibliography
+When it comes time to place a citation into your paper, you should insert a superscript numeral into the text, accompanied
+by a separate note containing the citation, as so.[^1]
+
+Notes come in one of two flavors: *footnotes* (listed at the bottom, or "foot," of each page) and *endnotes* (listed at the end of the document itself). Unless your professor indicates a preference, you may choose either method. 
+
+#### Author/Date
+Notes in the Author/Date style are made "in-line" - that is, the citation is included as a parenthetical within the body of the text itself, typically at the end of the corresponding sentence:
+> Laura Mulvey argued that narrative cinema was built around a gendered way of looking, in which female bodies are represented as sexual objects for the viewing pleasure of a male viewer (Mulvey 1975).
+
+At the conclusion of the essay, in a works cited section (see below), you would include the full citation to the in-line reference:
+> Mulvey, Laura. 1975. "Visual Pleasure and Narrative Cinema." *Screen* 16 (3): 6-18.
+
 ### Inserting References in a Word Processor
 The simplest way to insert a reference into your writing is using your word processor's reference system. In Microsoft Word and Google Docs, you will find an option for inserting a footnote under the "Insert" menu in the
 toolbar.[^2]
 
 ### Notes and Bibliographies
-Each time you reference a book/article in the notes, you should add a corresponding entry in your paper's bibliography, which should appear on its own page at the conclusion of your document. Note that bibliographic information is formatted differently depending on whether it is referenced in the notes or in the bibliography. For instance, Jon Lewis' book The New American Cinema would be referenced as so in a footnote:
+Each time you reference a book/article in the notes, you should add a corresponding entry in your paper's bibliography, which should appear on its own page at the conclusion of your document. Note that bibliographic information is formatted differently depending on whether it is referenced in the notes or in the bibliography. For instance, Jon Lewis' book *The New American Cinema* would be referenced as so in a footnote:
 
-<p>Jon Lewis, <em>The New American Cinema</em> (Durham: Duke University Press, 1998).</p> 
-<p>But in the bibliography, the same book would be referenced differently:</p>
-<p>Lewis, Jon. <em>The New American Cinema</em>. Durham: Duke University Press, 1998.</p>
+> Jon Lewis, <em>The New American Cinema</em> (Durham: Duke University Press, 1998).
+
+But in the bibliography, the same book would be referenced differently:
+
+>Lewis, Jon. <em>The New American Cinema</em>. Durham: Duke University Press, 1998.
 
 Don't worry if this seems overly complicated; even seasoned writers reference the Chicago Manual of Style often in
 order to verify that they are citing their sources properly.
