@@ -15,6 +15,7 @@ Undoubtedly, we will need to adjust our practice as students and as educators ov
 ### Recommended Reading
 
 Michael Townsen Hicks, James Humphries, Joe Slater, [ChatGPT is Bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+
 Noam Chomsky, Ian Roberts, Jeffrey Watamull, [The False Promise of ChatGPT](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html)
 
 
