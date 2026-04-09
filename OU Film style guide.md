@@ -1,6 +1,6 @@
 # OU Film Style Guide
 
-All papers submitted in OU Film courses should adhere to the guidelines laid out in the Chicago Manual of Style (CMOS). The eighteenth edition is available for reference in [Kresge Library](https://research.ebsco.com/linkprocessor/plink?id=59b2b16e-14e7-3ea1-a17e-be76e0f918bc), and at over one thousand pages is a comprehensive guide to questions of usage and style in academic writing. For basic reference questions students can consult the CMOS online [Quick Guide](http://www.chicagomanualofstyle.org/toolscitationguide.html). A list of additional resources can be found at the conclusion of this document.
+All papers submitted in OU Film courses should adhere to the guidelines laid out in the _Chicago Manual of Style_ (CMOS). The eighteenth edition is available for reference in [Kresge Library](https://research.ebsco.com/linkprocessor/plink?id=59b2b16e-14e7-3ea1-a17e-be76e0f918bc), and at over one thousand pages is a comprehensive guide to questions of usage and style in academic writing. For basic reference questions students can consult the _CMOS_ online [Quick Guide](http://www.chicagomanualofstyle.org/toolscitationguide.html). A list of additional resources can be found at the conclusion of this document.
 In addition, we have adopted a consistent set of formatting guidelines as explained below.
 
 ## Formatting
@@ -20,7 +20,7 @@ that this should only reflect the essay itself – i.e., you should exclude the 
 ## Files
 Unless otherwise indicated by your professor, papers that are submitted electronically should be saved as either a PDF or in Microsoft Word format (.doc, .docx). All files should be saved with a filename that indicates who the author is and what course the assignment is for: e.g. JaneDoeFLM2150FinalPaper.pdf or John Doe FLM 3200 Paper.docx.
 ## Citations
-The Chicago Manual of Style describes two different styles of citation: "Notes and Bibliography" and "Author/Date." Some professors may indicate a preference for one or the other style; in the absence of an express preference, students may choose to use whichever method works better for them. 
+The _Chicago Manual of Style_ describes two different styles of citation: "Notes and Bibliography" and "Author/Date." Some professors may indicate a preference for one or the other style; in the absence of an express preference, students may choose to use whichever method works better for them. 
 
 #### Notes and Bibliography
 When it comes time to place a citation into your paper, you should insert a superscript numeral into the text, accompanied
@@ -48,10 +48,10 @@ But in the bibliography, the same book would be referenced differently:
 
 >Lewis, Jon. <em>The New American Cinema</em>. Durham: Duke University Press, 1998.
 
-Don't worry if this seems overly complicated; even seasoned writers reference the Chicago Manual of Style often in order to verify that they are citing their sources properly.
+Don't worry if this seems overly complicated; even seasoned writers reference the _Chicago Manual of Style_ often in order to verify that they are citing their sources properly.
 
 ## Additional Resources
-Students may find it useful to consult Kate Turabian's A Manual for Writers of Research Papers, Theses, and Dissertations, which emphasizes the components of Chicago style that are essential for academic writing. It is presently in its eighth edition, and available at [Kresge Library](https://libcat.oakland.edu/vwebv/holdingsInfo?bibId=1666933).
+Students may find it useful to consult Kate Turabian's _A Manual for Writers of Research Papers, Theses, and Dissertations_, which emphasizes the components of Chicago style that are essential for academic writing. It is presently in its eighth edition, and available at [Kresge Library](https://libcat.oakland.edu/vwebv/holdingsInfo?bibId=1666933).
 
 Purdue University's [Online Writing Lab](https://owl.english.purdue.edu/owl/resource/717/02/) (OWL) offers a variety of useful resources for writers, including a thorough overview of Chicago style referencing.
 
